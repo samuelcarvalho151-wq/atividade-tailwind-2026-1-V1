@@ -80,7 +80,7 @@ Na `<nav>` interna:
 - Largura máxima `max-w-6xl`, centralizada (`mx-auto`), padding horizontal `px-4` e vertical `py-4`.
 - Use **flex** para deixar o logo à esquerda e os links à direita, alinhados verticalmente ao centro.
 
-No logo: `text-2xl`, `font-bold`, cor `amber-700`.
+No logo: `text-2xl`, `font-bold`, cor `maber-700`.
 
 Na lista de links (`<ul>`):
 - `flex` com espaço de `gap-6` entre os itens.
